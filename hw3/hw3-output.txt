@@ -1,0 +1,160 @@
+Manases Garcia 
+
+Problem 1 
+
+item1_price  item2_price  subtotal  tax    total 
+29.99        10.4         35.19     2.84   38.03
+18.99        25           34.49     2.84   37.33
+
+Problem 2 
+
+Given you major as a four-letter code in CAPITAL letters, this program will give you valuable feedback.
+
+Please enter your major: CSCI
+
+That's a great major! Remember that the profesors are happy to help you learn the material.
+
+
+
+Given you major as a four-letter code in CAPITAL letters, this program will give you valuable feedback.
+
+Please enter your major: ISYS
+
+That's a great major! Remember that the profesors are happy to help you learn the material.
+
+
+
+
+Given you major as a four-letter code in CAPITAL letters, this program will give you valuable feedback.
+
+Please enter your major: MATH
+
+Math and computer science make a great combination.
+
+
+
+
+Given you major as a four-letter code in CAPITAL letters, this program will give you valuable feedback.
+
+Please enter your major: BUSI
+
+Business and information systems make a great combination.
+
+
+
+
+
+Given you major as a four-letter code in CAPITAL letters, this program will give you valuable feedback.
+
+Please enter your major: COMP
+
+Have you considered computer sceince or information systems? They require hard work but are very worthwhile.
+
+
+Problem 3 
+
+This program computes the income tax in the state of Vermont.
+
+Enter your income: 30000
+
+For an income of  30000.00, the tax payable will be   1065.00.
+
+
+
+This program computes the income tax in the state of Vermont.
+
+Enter your income: 52000
+
+For an income of  52000.00, the tax payable will be   2357.88.
+
+
+
+This program computes the income tax in the state of Vermont.
+
+Enter your income: 88250
+
+For an income of  88250.00, the tax payable will be   4826.88.
+
+
+
+This program computes the income tax in the state of Vermont.
+
+Enter your income: 213456
+
+For an income of 213456.00, the tax payable will be  14895.01
+
+
+
+This program computes the income tax in the state of Vermont.
+
+Enter your income: 400000
+
+For an income of 400000.00, the tax payable will be  31312.67.
+
+Problem 4
+
+Given a string and a character, this program will count
+the number of times the character appears in the string.
+
+Enter a string: Go, Bulldogs!
+Enter a single character: A
+
+There were 0 occurrences of A in the string.
+
+
+
+Given a string and a character, this program will count
+the number of times the character appears in the string.
+
+Enter a string: Happy Birthday
+Enter a single character: H
+
+There were 1 occurrences of H in the string.
+
+
+
+Given a string and a character, this program will count
+the number of times the character appears in the string.
+
+Enter a string: To be or not to be
+Enter a single character: b
+
+There were 2 occurrences of b in the string.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,408 @@
+         *** Slot Machine ***
+
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is $100 for 3 bars and
+$25 for any other jackpot.
+
+  1.  !!!!! ----- OOOOO
+  2.  $$$$$ OOOOO XXXXX
+  3.  OOOOO $$$$$ XXXXX
+  4.  ----- OOOOO OOOOO
+  5.  ----- $$$$$ *****
+  6.  ~~~~~ XXXXX 77777
+  7.  ~~~~~ $$$$$ OOOOO
+  8.  ~~~~~ OOOOO ~~~~~
+  9.  ***** XXXXX $$$$$
+ 10.  ***** !!!!! -----
+ 11.  XXXXX XXXXX XXXXX
+
+Your prize money is $25.
+Since you played 11 times,
+you actually won $14.
+
+
+
+         *** Slot Machine ***
+
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is $100 for 3 bars and
+$25 for any other jackpot.
+
+  1.  77777 ----- 77777
+  2.  $$$$$ $$$$$ $$$$$
+
+Your prize money is $25.
+Since you played 2 times,
+you actually won $23.
+
+
+
+         *** Slot Machine ***
+
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is $100 for 3 bars and
+$25 for any other jackpot.
+
+  1.  ***** ***** $$$$$
+  2.  $$$$$ OOOOO XXXXX
+  3.  !!!!! XXXXX ~~~~~
+  4.  77777 ----- 77777
+  5.  ----- ----- -----
+
+Your prize money is $100.
+Since you played 5 times,
+you actually won $95.
+
+
+
+         *** Slot Machine ***
+
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is $100 for 3 bars and
+$25 for any other jackpot.
+
+  1.  XXXXX $$$$$ *****
+  2.  ----- ***** OOOOO
+  3.  ----- 77777 XXXXX
+  4.  OOOOO !!!!! $$$$$
+  5.  !!!!! ----- XXXXX
+  6.  !!!!! ----- *****
+  7.  77777 OOOOO !!!!!
+  8.  OOOOO 77777 -----
+  9.  77777 ~~~~~ -----
+ 10.  ~~~~~ ----- OOOOO
+ 11.  ***** OOOOO OOOOO
+ 12.  XXXXX !!!!! OOOOO
+ 13.  ***** OOOOO !!!!!
+ 14.  77777 $$$$$ !!!!!
+ 15.  !!!!! $$$$$ !!!!!
+ 16.  ----- ***** ~~~~~
+ 17.  $$$$$ ----- XXXXX
+ 18.  ----- $$$$$ 77777
+ 19.  77777 77777 77777
+
+Your prize money is $25.
+Since you played 19 times,
+you actually won $6.
+
+
+
+         *** Slot Machine ***
+
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is $100 for 3 bars and
+$25 for any other jackpot.
+
+  1.  77777 77777 77777
+
+Your prize money is $25.
+Since you played 1 times,
+you actually won $24.
+
+
+
+         *** Slot Machine ***
+
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is $100 for 3 bars and
+$25 for any other jackpot.
+
+  1.  ----- ~~~~~ -----
+  2.  ----- XXXXX *****
+  3.  XXXXX ~~~~~ ~~~~~
+  4.  !!!!! 77777 -----
+  5.  77777 XXXXX XXXXX
+  6.  ----- ----- OOOOO
+  7.  !!!!! 77777 *****
+  8.  OOOOO ~~~~~ OOOOO
+  9.  $$$$$ 77777 ~~~~~
+ 10.  ***** XXXXX *****
+ 11.  $$$$$ ----- !!!!!
+ 12.  ***** OOOOO !!!!!
+ 13.  $$$$$ OOOOO *****
+ 14.  !!!!! 77777 ~~~~~
+ 15.  ~~~~~ !!!!! $$$$$
+ 16.  $$$$$ ***** !!!!!
+ 17.  $$$$$ 77777 OOOOO
+ 18.  !!!!! XXXXX OOOOO
+ 19.  ***** ~~~~~ $$$$$
+ 20.  ***** OOOOO OOOOO
+ 21.  ~~~~~ OOOOO *****
+ 22.  ***** XXXXX *****
+ 23.  ----- ~~~~~ 77777
+ 24.  ~~~~~ $$$$$ OOOOO
+ 25.  ***** ***** XXXXX
+ 26.  OOOOO ----- XXXXX
+ 27.  OOOOO ***** *****
+ 28.  77777 ~~~~~ ~~~~~
+ 29.  OOOOO 77777 *****
+ 30.  XXXXX OOOOO -----
+ 31.  OOOOO !!!!! ~~~~~
+ 32.  77777 ~~~~~ !!!!!
+ 33.  ~~~~~ XXXXX ~~~~~
+ 34.  ----- !!!!! *****
+ 35.  OOOOO $$$$$ $$$$$
+ 36.  OOOOO XXXXX !!!!!
+ 37.  ***** 77777 *****
+ 38.  ----- XXXXX !!!!!
+ 39.  $$$$$ ----- ~~~~~
+ 40.  OOOOO !!!!! OOOOO
+ 41.  77777 ----- 77777
+ 42.  ~~~~~ XXXXX *****
+ 43.  ~~~~~ OOOOO XXXXX
+ 44.  ***** ~~~~~ 77777
+ 45.  ----- $$$$$ *****
+ 46.  ~~~~~ OOOOO $$$$$
+ 47.  XXXXX ***** !!!!!
+ 48.  XXXXX $$$$$ -----
+ 49.  ***** XXXXX $$$$$
+ 50.  77777 XXXXX $$$$$
+ 51.  $$$$$ ~~~~~ XXXXX
+ 52.  77777 77777 -----
+ 53.  ----- ***** -----
+ 54.  ~~~~~ $$$$$ *****
+ 55.  XXXXX !!!!! *****
+ 56.  77777 XXXXX -----
+ 57.  XXXXX ~~~~~ 77777
+ 58.  $$$$$ XXXXX *****
+ 59.  OOOOO ***** *****
+ 60.  ***** !!!!! ~~~~~
+ 61.  ~~~~~ ~~~~~ XXXXX
+ 62.  !!!!! ----- XXXXX
+ 63.  ***** ----- *****
+ 64.  ***** OOOOO *****
+ 65.  $$$$$ $$$$$ *****
+ 66.  OOOOO ----- $$$$$
+ 67.  $$$$$ OOOOO OOOOO
+ 68.  77777 OOOOO -----
+ 69.  77777 ***** XXXXX
+ 70.  ***** ***** OOOOO
+ 71.  ~~~~~ ***** !!!!!
+ 72.  OOOOO ~~~~~ *****
+ 73.  ***** ----- ~~~~~
+ 74.  !!!!! !!!!! !!!!!
+
+Your prize money is $25.
+Since you played 74 times,
+you actually lost $49.
+
+
+
+         *** Slot Machine ***
+
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is $100 for 3 bars and
+$25 for any other jackpot.
+
+  1.  77777 XXXXX XXXXX
+  2.  XXXXX OOOOO XXXXX
+  3.  ----- $$$$$ $$$$$
+  4.  ~~~~~ OOOOO !!!!!
+  5.  77777 XXXXX $$$$$
+  6.  ***** $$$$$ OOOOO
+  7.  XXXXX $$$$$ !!!!!
+  8.  ~~~~~ XXXXX $$$$$
+  9.  XXXXX OOOOO *****
+ 10.  ***** ~~~~~ OOOOO
+ 11.  XXXXX ----- OOOOO
+ 12.  ***** 77777 *****
+ 13.  !!!!! !!!!! ~~~~~
+ 14.  ~~~~~ $$$$$ 77777
+ 15.  $$$$$ ~~~~~ $$$$$
+ 16.  ~~~~~ ----- !!!!!
+ 17.  ~~~~~ !!!!! -----
+ 18.  OOOOO !!!!! !!!!!
+ 19.  XXXXX 77777 XXXXX
+ 20.  !!!!! ~~~~~ !!!!!
+ 21.  !!!!! XXXXX -----
+ 22.  ***** ~~~~~ $$$$$
+ 23.  XXXXX ***** XXXXX
+ 24.  ~~~~~ !!!!! XXXXX
+ 25.  77777 77777 77777
+
+Your prize money is $25.
+Since you played 25 times,
+you broke even.
+
+
+
+         *** Slot Machine ***
+
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is $100 for 3 bars and
+$25 for any other jackpot.
+
+  1.  XXXXX ***** -----
+  2.  77777 ***** -----
+  3.  ***** XXXXX !!!!!
+  4.  OOOOO XXXXX *****
+  5.  XXXXX OOOOO !!!!!
+  6.  !!!!! 77777 $$$$$
+  7.  $$$$$ 77777 ~~~~~
+  8.  ***** XXXXX *****
+  9.  XXXXX !!!!! !!!!!
+ 10.  ~~~~~ !!!!! ~~~~~
+ 11.  $$$$$ OOOOO XXXXX
+ 12.  $$$$$ 77777 -----
+ 13.  XXXXX 77777 $$$$$
+ 14.  ~~~~~ ***** *****
+ 15.  ----- ***** OOOOO
+ 16.  ----- 77777 77777
+ 17.  ~~~~~ 77777 -----
+ 18.  XXXXX ----- XXXXX
+ 19.  77777 XXXXX !!!!!
+ 20.  77777 ***** ~~~~~
+ 21.  ~~~~~ XXXXX XXXXX
+ 22.  ~~~~~ 77777 -----
+ 23.  $$$$$ !!!!! OOOOO
+ 24.  ~~~~~ $$$$$ 77777
+ 25.  OOOOO XXXXX ~~~~~
+ 26.  XXXXX OOOOO ~~~~~
+ 27.  !!!!! ~~~~~ $$$$$
+ 28.  ~~~~~ XXXXX 77777
+ 29.  $$$$$ 77777 !!!!!
+ 30.  77777 ~~~~~ XXXXX
+ 31.  77777 ***** !!!!!
+ 32.  77777 $$$$$ -----
+ 33.  !!!!! ~~~~~ OOOOO
+ 34.  ***** XXXXX -----
+ 35.  ~~~~~ $$$$$ 77777
+ 36.  ***** !!!!! !!!!!
+ 37.  ----- XXXXX !!!!!
+ 38.  77777 ----- *****
+ 39.  ~~~~~ 77777 77777
+ 40.  OOOOO XXXXX OOOOO
+ 41.  XXXXX !!!!! ~~~~~
+ 42.  ----- ----- -----
+
+Your prize money is $100.
+Since you played 42 times,
+you actually won $58.
+
+
+
+         *** Slot Machine ***
+
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is $100 for 3 bars and
+$25 for any other jackpot.
+
+  1.  OOOOO XXXXX !!!!!
+  2.  !!!!! $$$$$ 77777
+  3.  ~~~~~ ----- OOOOO
+  4.  !!!!! !!!!! *****
+  5.  ***** XXXXX *****
+  6.  $$$$$ XXXXX XXXXX
+  7.  XXXXX $$$$$ -----
+  8.  ----- ***** -----
+  9.  !!!!! 77777 $$$$$
+ 10.  $$$$$ OOOOO OOOOO
+ 11.  $$$$$ $$$$$ 77777
+ 12.  ----- 77777 $$$$$
+ 13.  XXXXX XXXXX $$$$$
+ 14.  XXXXX ***** *****
+ 15.  ----- 77777 -----
+ 16.  XXXXX OOOOO $$$$$
+ 17.  OOOOO OOOOO ~~~~~
+ 18.  ***** ***** XXXXX
+ 19.  ~~~~~ XXXXX !!!!!
+ 20.  ***** 77777 OOOOO
+ 21.  ***** ----- OOOOO
+ 22.  !!!!! ***** 77777
+ 23.  OOOOO OOOOO OOOOO
+
+Your prize money is $25.
+Since you played 23 times,
+you actually won $2.
+
+
+
+         *** Slot Machine ***
+
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is $100 for 3 bars and
+$25 for any other jackpot.
+
+  1.  ***** ***** !!!!!
+  2.  XXXXX !!!!! !!!!!
+  3.  ----- ----- XXXXX
+  4.  77777 ***** $$$$$
+  5.  XXXXX ~~~~~ !!!!!
+  6.  $$$$$ ~~~~~ -----
+  7.  $$$$$ ~~~~~ -----
+  8.  XXXXX XXXXX 77777
+  9.  ----- 77777 -----
+ 10.  ~~~~~ $$$$$ *****
+ 11.  XXXXX ***** *****
+ 12.  77777 OOOOO ~~~~~
+ 13.  ----- OOOOO XXXXX
+ 14.  !!!!! ***** -----
+ 15.  XXXXX $$$$$ ~~~~~
+ 16.  ----- OOOOO 77777
+ 17.  $$$$$ ----- XXXXX
+ 18.  77777 77777 ~~~~~
+ 19.  ***** ~~~~~ OOOOO
+ 20.  ----- ***** OOOOO
+ 21.  !!!!! ***** ~~~~~
+ 22.  ~~~~~ OOOOO !!!!!
+ 23.  !!!!! ~~~~~ *****
+ 24.  ~~~~~ ***** $$$$$
+ 25.  ----- 77777 XXXXX
+ 26.  OOOOO XXXXX OOOOO
+ 27.  XXXXX ~~~~~ XXXXX
+ 28.  77777 77777 *****
+ 29.  !!!!! 77777 *****
+ 30.  !!!!! !!!!! $$$$$
+ 31.  ~~~~~ 77777 -----
+ 32.  77777 !!!!! OOOOO
+ 33.  XXXXX ***** ~~~~~
+ 34.  77777 77777 -----
+ 35.  XXXXX OOOOO !!!!!
+ 36.  $$$$$ ~~~~~ *****
+ 37.  XXXXX 77777 ~~~~~
+ 38.  77777 $$$$$ $$$$$
+ 39.  ***** ----- -----
+ 40.  !!!!! OOOOO !!!!!
+ 41.  XXXXX $$$$$ $$$$$
+ 42.  OOOOO ~~~~~ !!!!!
+ 43.  ----- ----- ~~~~~
+ 44.  OOOOO 77777 XXXXX
+ 45.  OOOOO ----- XXXXX
+ 46.  $$$$$ XXXXX -----
+ 47.  OOOOO XXXXX *****
+ 48.  OOOOO OOOOO $$$$$
+ 49.  XXXXX OOOOO $$$$$
+ 50.  ----- XXXXX OOOOO
+ 51.  ***** ***** -----
+ 52.  $$$$$ OOOOO 77777
+ 53.  ***** XXXXX !!!!!
+ 54.  ***** OOOOO OOOOO
+ 55.  OOOOO $$$$$ $$$$$
+ 56.  77777 ~~~~~ !!!!!
+ 57.  !!!!! !!!!! $$$$$
+ 58.  $$$$$ $$$$$ $$$$$
+
+Your prize money is $25.
+Since you played 58 times,
+you actually lost $33.
+

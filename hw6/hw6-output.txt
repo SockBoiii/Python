@@ -1,0 +1,100 @@
+Manases Garcia
+
+Homework #6
+
+Problem #1
+
+Given a string and a character, this program will
+tell you if the string contains the character.
+
+Enter the string: hello
+Enter the character: e
+
+The string contains the character.
+
+
+
+
+
+Given a string and a character, this program will
+tell you if the string contains the character.
+
+Enter the string: Bulldogs
+Enter the character: T
+
+The string does not contain the character.
+
+Problem #2
+
+This is the high or low game!
+
+Guess a number and this program will tell if you are correct,
+or if you need to guess higher, or guess lower!.
+
+From 1 to 100. What number did I pick?
+
+To quit the game enter: 0
+
+Guess a number: 50
+Your guess is too high!
+
+Guess a number: 40
+Your guess is too low!
+
+Guess a number: 45
+Your guess of 45 is correct!
+
+
+
+
+This is the high or low game!
+
+Guess a number and this program will tell if you are correct,
+or if you need to guess higher, or guess lower!.
+
+From 1 to 100. What number did I pick?
+
+To quit the game enter: 0
+
+Guess a number: 0
+The correct guess was 78! Come and play again soon!
+
+Problem #3
+
+This program simulates a large number of darts being thrown at a
+dart board, then tells you pi and the approximation.
+
+Enter the number of dart to be thrown: 1000
+
+3.14159 of pi and approximation of 1.30800.
+
+
+This program simulates a large number of darts being thrown at a
+dart board, then tells you pi and the approximation.
+
+Enter the number of dart to be thrown: 10000
+
+3.14159 of pi and approximation of 1.39600.
+
+
+
+
+This program simulates a large number of darts being thrown at a
+dart board, then tells you pi and the approximation.
+
+Enter the number of dart to be thrown: 100000
+
+3.14159 of pi and approximation of 1.40500.
+
+
+
+
+
+
+
+
+
+
+
+
+

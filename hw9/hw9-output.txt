@@ -1,0 +1,75 @@
+Manases Garcia
+
+Homework #9
+
+Problem #1
+
+The function returns nothing, when the number of
+items in list is zero
+
+The function then swaps the first and last elements
+in the list if they are adjacent.
+
+Problem #2
+
+This program tests the count_evens function.
+
+Correct: 1 even number in list1
+Correct: 6 even numbers in list2
+Correct: 5 even numbers in list3
+Correct: 0 even numbers in list4
+
+Problem #3
+
+This program tests the alternating_sum function.
+
+The alternating sum of list1 = -2.
+The alternating sum of list1 is correct.
+
+The alternating sum of list2 = 1.
+The alternating sum of list2 is correct.
+
+The alternating sum of list3 = -3.
+The alternating sum of list3 is correct.
+
+Problem #4
+
+Challenege Problem #7
+
+This program promts the user to enter a postive integer and
+returns a list with prime fractors of the given integer.
+
+Enter a postive integer: 72
+[2, 2, 2, 3, 3]
+
+
+
+
+This program promts the user to enter a postive integer and
+returns a list with prime fractors of the given integer.
+
+Enter a postive integer: 5
+[5]
+
+
+
+
+This program promts the user to enter a postive integer and
+returns a list with prime fractors of the given integer.
+
+Enter a postive integer: 12
+[2, 2, 3]
+
+
+
+
+This program promts the user to enter a postive integer and
+returns a list with prime fractors of the given integer.
+
+Enter a postive integer: -12
+
+You entered a negitive interger. Enter a postive integer!
+
+Enter a postive integer: 9
+
+

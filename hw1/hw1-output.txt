@@ -1,0 +1,87 @@
+Manase Garcia
+
+Problem 1
+
+*-----------------------------------------------*
+*                                               *
+*    Welcome to the CSCI 248 mystery program    *
+*                                               *
+*-----------------------------------------------*
+
+Please enter your full name: Manases Garcia
+
+Welcome to CSCI 248, Manases!
+Your username is mangarcia.
+You are currently running the "mystery.py" program.
+
+Today is Thursday, September 03, 2020.  It is currently 04:45 PM.
+
+Here is an appropriate quotation for this course:
+
+  "Writing good code has much in common with writing good English."
+  --- Brian Kernighan and Rob Pike, "The Practice of Programming"
+
+Good luck, and remember to see Dr. Wilson if you have any questions.
+
+Problem 2 
+
+Course:      Object-Oriented Programming (CSCI 248)
+
+Instructor:  Dr. Linda F. Wilson
+             219 Beck Center, 830-372-6330
+             lwilson@tlu.edu
+
+A few words of advice:
+    Start assignments early and see Dr. Wilson for help!
+
+* Remember to add appropriate header comments to this *
+*     source code before completing this problem.     *
+~/python/hw1 $ vi course_info.py
+~/python/hw1 $ python course_info.py
+Course:      Object-Oriented Programming (CSCI 248)
+
+Instructor:  Dr. Linda F. Wilson
+             213c Beck Center, 830-372-6330
+             lwilson@tlu.edu
+
+A few words of advice:
+    Start assignments early and see Dr. Wilson for help!
+
+* Remember to add appropriate header comments to this *
+*     source code before completing this problem.     *
+
+Problem 3
+
+  *** Advice for Beginning Programmers  ***
+
+"One must learn by doing the thing; for though
+ you know it, you have no certainty until you try."
+    -- Sophocles
+
+"Computers are good at follwing instructions.
+  but not at reading your mind."
+  -- Donal Knuth
+
+"The sooner you start to code, the longer the
+ program will take."
+ -- Roy Carlson
+
+Problem 4
+
+print('This program converts celsuis to fahrenhiet.')
+
+celsius = float(input('degree celsuis:'))
+fahrenheit = 9/5 * celsius + 32
+
+print('Celsius to farhenheit is ' +str(fahrenheit))
+
+Problem 4
+
+This program converts celsuis to fahrenhiet.
+degree celsuis:35.5
+When celsius is converted to farhenheit it is 95.9
+
+
+
+
+

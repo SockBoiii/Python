@@ -1,0 +1,85 @@
+Manases Garcia
+
+Homework #2
+
+Problem #1
+
+Print Instructions
+Input amount_in_dollars
+amount_in_cents = 100 * amount_in_dollars
+num_first_class_stamps = amount_in_cents / 55
+num_penny_stamps = amount_in_cents % 55
+Print num_first_class_stamps, num_penny_stamps
+
+Problem #2
+
+Print Instructions
+Input num_of_quaters
+Input num_of_dimes
+Input num_of_nickels
+Input num_of_pennies
+amount_in_cents = (25 * num_of_quarters) + (10 * num_of_dimes) + \
+	(5 * num_of_nickels) + ( 1 * num_of_pennies) 
+amount_in_dollars =  amount_in_cents // 100  
+total_amount_dollars = amount_in_dollars
+total_amount_cents = amount_in_cents % 100
+Print num_in_dollars, and num_in_cents
+
+Problem #3
+
+Please enter your name: Manases Garcia
+
+Manases Garcia, thanks for helping me fix all the problems!
+
+Don't forget to add the appropriate header comments
+before submitting your work electronically.
+
+Have a great day!
+
+Problem #4
+
+This program will calculte the total cost of gas purchased.
+
+Enter the price of gas: 1.79
+
+Enter total number of gallons desired: 15.9
+
+The total cost is $28.46
+
+
+Problem #5
+
+This program calculated the futur value of an investment.
+
+Enter inital amount invested: 5000
+
+Enter annual rate of return: 8
+
+Enter number of years invested: 45
+
+This is the total amount accumlated $159602.25.
+
+
+
+This program calculated the futur value of an investment.
+
+Enter inital amount invested: 2000
+
+Enter annual rate of return: 7.5
+
+Enter number of years invested: 45
+
+This is the total amount accumlated $51809.68.
+
+
+
+
+
+
+
+
+
+
+
+
+

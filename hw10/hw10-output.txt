@@ -1,0 +1,84 @@
+Manases Garcia
+
+Homework #10
+
+Problem #1
+
+for items in time:
+    hour, minute = time.split(':')
+    hour = int(item)
+    minute = int(item)
+
+Problem #2
+
+name_list_combined = ' '.join(name_list)
+count = 0
+for char in name_list:
+   count += 1
+print('There are %d characters in the list' % count)
+
+Problem #3
+
+~/python/hw10 $ python computing_average.py nums1.txt
+This program computes the average number for nums1.txt
+
+The average of the 8 values was 20.9
+
+
+
+
+~/python/hw10 $ python computing_average.py nums2.txt
+This program computes the average number for nums2.txt
+
+Error: Could not convert 84x to a number.
+
+
+
+
+~/python/hw10 $ python computing_average.py nums2.txt nums1.txt
+Usage: python computing_average.py filename
+
+Problem #4
+
+This program tests the median function.
+
+The list [4, 7, 1, 8] should have a median of 5.5.
+The list [4, 7, 1, 8] has a median of 5.5.
+
+The list [1, 6, 2, 5, 12] should have a median of 5.0.
+The list [1, 6, 2, 5, 12] has a median of 5.0.
+
+The list [42, 37, 82, 19, 76, 29] should have a median of 39.5.
+The list [42, 37, 82, 19, 76, 29] has a median of 39.5.
+
+The list [5, 2, 4, 17, 55, 4, 3, 26, 18, 2, 17] should have a median of 5.0.
+The list [5, 2, 4, 17, 55, 4, 3, 26, 18, 2, 17] has a median of 5.0.
+
+The list [2.75, 6.5, 8.5, 11.5, 12.4, 6.0, 7.25] should have a median of 7.25.
+The list [2.75, 6.5, 8.5, 11.5, 12.4, 6.0, 7.25] has a median of 7.25.
+
+Problem #5
+
+This program tests a few methods of the Point class.
+
+Testing the get_distance method...
+
+Correct: The distance between points A and B is 0
+Correct: The distance between points C and D is 5
+
+Testing the move method...
+
+After calling pointA.move(0.2, 1), point A should now be at (3.2, -3).
+Correct: Point A is at (3.20, -3.00).
+
+After calling pointB.move(-1, -2), point B should now be at (4, 6).
+Correct: Point B is at (4.00, 6.00).
+
+End of testing.
+
+Challenege Problem #8
+
+
+
+
+

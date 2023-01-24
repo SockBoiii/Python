@@ -1,0 +1,105 @@
+Manases Garcia
+
+Homework#7
+
+Problem#1
+
+What doesn't kill you makes you flowery
+Stand a little soggy
+macaroni is majoring in scuba diving.
+
+Problem#2
+
+This program demonstrates the largest_factor function.
+
+The largest factor of 125 is 25.
+The largest factor of 27 is 9.
+The largest factor of 12 is 6.
+The largest factor of 7 is 1.
+
+Problem#3
+
+Given a file name, this program will
+find the maximum value in the file.
+
+Enter the file name: values1.txt
+
+The maximum value is 926.00.
+
+
+
+
+
+Given a file name, this program will
+find the maximum value in the file.
+
+Enter the file name: values2.txt
+
+The maximum value is -214.66.
+
+Problem#4
+
+                 ***  WORLD SERIES WINNERS  ***
+
+Given the name of a team (e.g., Texas Rangers or New York Yankees),
+this program will determin how many times that team won the
+World Series in 1903-2019.
+
+Enter the name of the team: Texas Rangers
+
+The Texas Rangers never won the World Series.
+
+
+
+        ***  WORLD SERIES WINNERS  ***
+
+Given the name of a team (e.g., Texas Rangers or New York Yankees),
+this program will determin how many times that team won the
+World Series in 1903-2019.
+
+Enter the name of the team: Houston Astros
+
+The Houston Astros won the World Series 1 time.
+
+
+
+         ***  WORLD SERIES WINNERS  ***
+
+Given the name of a team (e.g., Texas Rangers or New York Yankees),
+this program will determin how many times that team won the
+World Series in 1903-2019.
+
+Enter the name of the team: New York Yankees
+
+The New York Yankees won the World Series 27 time.
+
+Problem #5
+
+This program tests the functions of the cylinder module.
+
+Read the output carefully to check your functions.
+
+For a cylinder of radius 1 and height 1, the volume
+should be 3.142 and the surface area should be 12.566.
+Computed values:  volume = 3.142, surface area = 12.566
+
+For a cylinder of radius 0.1 and height 0.5, the volume
+should be 0.016 and the surface area should be 0.377.
+Computed values:  volume = 0.016, surface area = 0.377
+
+For a cylinder of radius 2 and height 1.5, the volume
+should be 18.850 and the surface area should be 43.982.
+Computed values:  volume = 18.850, surface area = 43.982
+
+For a cylinder of radius 0 and height 2, the volume should be 0
+and the surface area should be 0.
+Computed values:  volume = 0.000, surface area = 0.000
+
+Getting ready to test exception handling...
+ERROR: No exception was thrown from compute_volume
+ERROR: No exception was thrown from compute_surface_area
+ERROR: No exception was thrown from compute_volume
+ERROR: No exception was thrown from compute_surface_area
+
+
+

@@ -1,0 +1,214 @@
+Manases Garcia	
+
+Homework 11
+
+Problem #1
+
+This progarm rolls two die 1000 times, counting the number
+of times 2, 3, or 12 occurred.
+
+You rolled 1000 times, and the numbers 2, 3, and 12 occured 90 times.
+
+
+
+
+
+Problem #2
+
+This program tests the Clock class.
+
+Testing the constructor and __str__ method...
+
+time1 should be 00:00.
+time1 is 00:00.
+
+time2 should be 00:00.
+time2 is 00:00.
+
+time3 should be 23:59.
+time3 is 23:59.
+
+time4 should be 01:02.
+time4 is 01:02.
+
+Correct:  The __str__ method returns 00:00 for time1.
+Correct:  The __str__ method returns 01:02 for time4.
+
+Testing the accessor methods...
+
+time1 should be 0 hours and 0 minutes.
+time1: 0 hours and 0 minutes.
+time3 should be 23 hours and 59 minutes.
+time3: 23 hours and 59 minutes.
+time4 should be 1 hour and 2 minutes.
+time4: 1 hour and 2 minutes.
+
+Testing the error checking in the constructor...
+
+Attempting to set time1 = clock.Clock(24, 1)
+Correct: ValueError was thrown from the constructor.
+Attempting to set time1 = clock.Clock(1, 60)
+Correct: ValueError was thrown from the constructor.
+Attempting to set time1 = clock.Clock(-1, 1)
+Correct: ValueError was thrown from the constructor.
+Attempting to set time1 = clock.Clock(1, -1)
+Correct: ValueError was thrown from the constructor.
+
+Testing the set_time method...
+
+After calling time1.set_time(23, 59), time1 = 23:59.
+After calling time2.set_time(1, 1),   time2 = 01:01.
+After calling time3.set_time(0, 0),   time3 = 00:00.
+After calling time4.set_time(0, 59),  time4 = 00:59.
+
+Checking set_time for error situations...
+
+Attempting to call time1.set_time(24, 0)
+Correct: ValueError was thrown from set_time.
+Attempting to call time1.set_time(-1, 59)
+Correct: ValueError was thrown from set_time.
+Attempting to call time1.set_time(5, 60)
+Correct: ValueError was thrown from set_time.
+Attempting to call time1.set_time(12, -1)
+Correct: ValueError was thrown from set_time.
+
+time1 is currently 23:59.
+Testing increment_minute on time1...
+Expected sequence is 00:00, 00:01, 00:02.
+After first increment,  time1 = 00:00.
+After second increment, time1 = 00:01.
+After third increment,  time1 = 00:02.
+
+time1 has been changed to 12:30.
+Testing increment_hour on time1...
+Expected sequence is 13:30, 14:30, 15:30.
+After first increment,  time1 = 13:30.
+After second increment, time1 = 14:30.
+After third increment,  time1 = 15:30.
+
+time1 has been changed to 22:00.
+Testing increment_hour on time1...
+Expected sequence is 23:00, 00:00, 01:00.
+After first increment,  time1 = 23:00.
+After second increment, time1 = 00:00.
+After third increment,  time1 = 01:00.
+Correct sequence after increment_hour
+
+Testing the existence of the __eq__ method...
+Correct: The __eq__ method is defined.
+
+Testing the __eq__ method...
+Correct: 10:20 == 10:20
+Correct: 10:20 != 11:20
+Correct: 10:20 != 10:21
+Correct: 11:20 != 10:20
+
+End of testing for the Clock class.
+
+
+
+
+Challenge Problem #10
+
+This program will print and count each card that is being dealt
+until an ace card and face card are found, then it will stop
+and print the total number of cards dealt.
+
+The card was Four of Spades.
+The card was Ten of Hearts.
+The card was Two of Spades.
+The card was Six of Hearts.
+The card was Queen of Spades.
+The card was Five of Spades.
+The card was Five of Clubs.
+The card was Two of Clubs.
+The card was Jack of Diamonds.
+The card was Seven of Clubs.
+The card was Six of Diamonds.
+The card was Four of Hearts.
+The card was Two of Hearts.
+The card was Four of Diamonds.
+The card was Seven of Spades.
+The card was Ace of Spades.
+
+There were 16 total cards dealt.
+
+
+
+
+Challenge Problem #11
+
+This program tests the Queue class.
+
+Adding 1, 2, 3, 4, 5, 2  to queue1...
+
+queue1 should contain 1, 2, 3, 4, 5, 2.
+queue1 contains the following from front to back:
+1
+2
+3
+4
+5
+2
+
+Correct: The string conversion method has the proper form.
+
+The first element in queue1 should be 1.
+Correct: The first element is 1.
+Correct: The size is 6.
+Correct: The queue is not empty.
+
+Removing 1 from queue1...
+Correct: Removed 1 from queue1 and first is now 2
+Correct: The size is 5.
+Correct: The queue is not empty.
+
+Removing 2 from queue1...
+Correct: Removed 2 from queue1 and first is now 3
+Correct: The size is 4.
+Correct: The queue is not empty.
+
+queue1 should contain 3, 4, 5, 2.
+queue1 contains the following from front to back:
+3
+4
+5
+2
+
+Adding 6 to the queue...
+Adding 7 to the queue...
+
+queue1 should now contain 3, 4, 5, 2, 6, 7.
+queue1 contains the following from front to back:
+3
+4
+5
+2
+6
+7
+
+Removing 3 from queue1...
+Correct: Removed 3 from queue1 and first is now 4
+
+Removing 4 from queue1...
+Correct: Removed 4 from queue1 and first is now 5
+
+queue1 should now contain 5, 2, 6, 7.
+queue1 contains the following from front to back:
+5
+2
+6
+7
+
+Testing an empty queue...
+
+Correct: The size is 0.
+Correct: The queue is empty.
+
+Attempting to call first on an empty queue...
+Correct: Caught an EmptyCollectionError
+
+Attempting to call dequeue on an empty queue...
+Correct: Caught an EmptyCollectionError
+
+End of testing for the Queue class.

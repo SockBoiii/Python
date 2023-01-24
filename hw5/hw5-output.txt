@@ -1,0 +1,126 @@
+Manases Garcia 
+
+Homework #5
+
+Problem #1
+
+This program estimates the calories burned by a runner.
+
+Enter the weight in pounds: 165
+Enter the distance in miles: 6
+
+A runner weighing 165.0 pounds who runs 6.0 miles
+will burn approximately 646 calories.
+
+
+
+
+This program estimates the calories burned by a runner.
+
+Enter the weight in pounds: 210.5
+Enter the distance in miles: 3.5
+
+A runner weighing 210.5 pounds who runs 3.5 miles
+will burn approximately 481 calories.
+
+Problem #2
+
+This program plays a simple dice game
+
+You rolled 2 and 6.
+You lose $1.
+
+
+
+
+This program plays a simple dice game
+
+You rolled 3 and 6.
+You lose $1.
+
+
+
+This program plays a simple dice game
+
+You rolled 6 and 6.
+You win $5.
+
+
+
+
+This program plays a simple dice game
+
+You rolled 1 and 2.
+You lose $1.
+
+Problem #3
+
+This program prompts the user to input the value of a stock,
+and validates that it is positive, then print the corresponding commission.
+
+Enter the value of the stock: 0
+
+This value is not positve.
+
+Enter the value of the stock: 99.95
+
+The commission earned is  20.00.
+
+
+
+This program prompts the user to input the value of a stock,
+and validates that it is positive, then print the corresponding commission.
+
+Enter the value of the stock: 100
+
+The commission earned is  20.00.
+
+
+
+This program prompts the user to input the value of a stock,
+and validates that it is positive, then print the corresponding commission.
+
+Enter the value of the stock: 990.95
+
+The commission earned is  28.91.
+
+
+
+This program prompts the user to input the value of a stock,
+and validates that it is positive, then print the corresponding commission.
+
+Enter the value of the stock: 1000
+
+The commission earned is  52.50.
+
+
+
+This program prompts the user to input the value of a stock,
+and validates that it is positive, then print the corresponding commission.
+
+Enter the value of the stock: 10000
+
+The commission earned is  75.00.
+
+Problem 4
+
+This program tests the is_election_year() function
+for determining presidential election years.
+
+Correct: 1980 was an election year
+Correct: 2000 was an election year
+Correct: 2012 was an election year
+Correct: 2016 was an election year
+Correct: 2017 was not an election year
+Correct: 2018 was not an election year
+Correct: 2019 was not an election year
+Correct: 2020 is an election year
+Correct: 2021 is not an election year
+Correct: 2022 is not an election year
+
+
+
+
+
+
+

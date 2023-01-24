@@ -1,0 +1,243 @@
+Manases Garcia	
+
+Homework #12
+
+Problem #1
+
+A.
+This program performs basic testing
+of the SlotMachine class.
+
+First, pulling the lever 20 times.
+Should get random output for the different pulls.
+
+***** ***** !!!!!
+!!!!! OOOOO ~~~~~
+!!!!! !!!!! !!!!!  JACKPOT!!
+~~~~~ ~~~~~ ~~~~~  JACKPOT!!
+XXXXX $$$$$ $$$$$
+!!!!! XXXXX !!!!!
+XXXXX ***** *****
+77777 XXXXX XXXXX
+77777 ~~~~~ !!!!!
+OOOOO ***** -----
+~~~~~ 77777 !!!!!
+!!!!! ~~~~~ -----
+$$$$$ OOOOO !!!!!
+OOOOO $$$$$ XXXXX
+XXXXX ----- *****
+***** ----- XXXXX
+~~~~~ $$$$$ OOOOO
+~~~~~ ----- $$$$$
+77777 77777 OOOOO
+!!!!! ----- 77777
+
+LOOK carefully at the output above.
+If all 3 symbols matched in any row,
+the word JACKPOT should have appeared.
+
+Now testing the get_reel and
+string conversion methods.
+Correct for call to get_reel1
+Correct for call to get_reel2
+Correct for call to get_reel3
+
+End of basic testing of SlotMachine class.
+
+
+
+
+b.
+        *** Slot Machine ***
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is 100 for 3 bars and
+$25 for any other jackpot.
+
+  1. 77777 $$$$$ -----.
+  2. XXXXX XXXXX ~~~~~.
+  3. XXXXX ----- 77777.
+  4. ~~~~~ ----- *****.
+  5. $$$$$ OOOOO $$$$$.
+  6. XXXXX OOOOO !!!!!.
+  7. ***** 77777 ~~~~~.
+  8. $$$$$ $$$$$ !!!!!.
+  9. ~~~~~ ~~~~~ OOOOO.
+ 10. $$$$$ ***** 77777.
+ 11. ----- !!!!! -----.
+ 12. 77777 ~~~~~ 77777.
+ 13. 77777 77777 OOOOO.
+ 14. XXXXX ----- 77777.
+ 15. ***** 77777 -----.
+ 16. ~~~~~ 77777 ~~~~~.
+ 17. 77777 OOOOO *****.
+ 18. OOOOO OOOOO -----.
+ 19. !!!!! OOOOO $$$$$.
+ 20. !!!!! !!!!! -----.
+ 21. !!!!! 77777 !!!!!.
+ 22. ~~~~~ ~~~~~ OOOOO.
+ 23. ----- 77777 ~~~~~.
+ 24. $$$$$ ----- OOOOO.
+ 25. ----- ~~~~~ 77777.
+ 26. 77777 !!!!! $$$$$.
+ 27. ~~~~~ 77777 *****.
+ 28. $$$$$ OOOOO 77777.
+ 29. XXXXX XXXXX 77777.
+ 30. OOOOO ----- ~~~~~.
+ 31. OOOOO ~~~~~ ~~~~~.
+ 32. ----- XXXXX $$$$$.
+ 33. ***** XXXXX ~~~~~.
+ 34. OOOOO 77777 XXXXX.
+ 35. OOOOO XXXXX $$$$$.
+ 36. XXXXX !!!!! ~~~~~.
+ 37. XXXXX XXXXX *****.
+ 38. XXXXX 77777 $$$$$.
+ 39. ~~~~~ !!!!! -----.
+ 40. OOOOO $$$$$ *****.
+ 41. 77777 77777 OOOOO.
+ 42. $$$$$ ~~~~~ ~~~~~.
+ 43. OOOOO OOOOO XXXXX.
+ 44. ***** !!!!! -----.
+ 45. 77777 77777 !!!!!.
+ 46. OOOOO ***** *****.
+ 47. 77777 ----- XXXXX.
+ 48. ----- ----- -----.
+
+Your prize money is $ 100
+Since you played 48 times,
+you actually won $52.
+
+
+
+
+         *** Slot Machine ***
+This game simulates a slot machine, where you
+will pay $1 for each play of the machine.
+Matching all 3 symbols earns the jackpot,
+where the payout is 100 for 3 bars and
+$25 for any other jackpot.
+
+  1. !!!!! ~~~~~ -----.
+  2. ----- OOOOO !!!!!.
+  3. OOOOO !!!!! ~~~~~.
+  4. OOOOO ----- -----.
+  5. XXXXX XXXXX XXXXX.
+
+Your prize money is $ 25
+Since you played 5 times,
+you actually won $20.
+
+
+
+
+Probelm #2
+
+~/python/hw12 $ python find_birthdays.py 1960 1980
+This program will print the names of all the people
+listed in birthdays.csv born from 1960 to 1980.
+
+Julia Roberts          October 28, 1967
+Gwyneth Paltrow        September 27, 1972
+Will Smith             September 25, 1968
+Robert Downey Jr.      April 4, 1965
+Kate Winslet           October 5, 1975
+Chris Martin           March 2, 1977
+George Clooney         May 6, 1961
+Antonio Banderas       August 10, 1960
+Charlize Theron        August 7, 1975
+Leonardo DiCaprio      November 11, 1974
+Sandra Bullock         July 26, 1964
+Dwayne Johnson         May 2, 1972
+Cameron Diaz           August 30, 1972
+Mark Wahlberg          June 5, 1971
+Cate Blanchett         May 14, 1969
+LL Cool J              January 14, 1968
+Jake Gyllenhaal        December 19, 1980
+Jennifer Lopez         July 24, 1969
+Eva Longoria           March 15, 1975
+Jennifer Garner        April 17, 1972
+RuPaul                 November 17, 1960
+Jodie Foster           November 19, 1962
+
+
+
+
+
+~/python/hw12 $ python find_birthdays.py 1980 1990
+This program will print the names of all the people
+listed in birthdays.csv born from 1980 to 1990.
+
+Kristen Stewart        April 9, 1990
+Jennifer Lawrence      August 15, 1990
+Chris Hemsworth        August 11, 1983
+Emma Watson            April 15, 1990
+Robert Pattinson       May 13, 1986
+Seth Rogen             April 15, 1982
+Emma Stone             November 6, 1988
+Jake Gyllenhaal        December 19, 1980
+Daniel Radcliffe       July 23, 1989
+Andrew Garfield        August 20, 1983
+Priyanka Chopra        July 18, 1982
+Rami Malek             May 12, 1981
+Constance Wu           March 22, 1982
+Ellen Page             February 21, 1987
+Brie Larson            October 1, 1989
+
+
+
+
+
+Challenge Problem#12
+
+This program lets you play a simple card game called High-Low.
+A card will be dealt from a deck of cards. You must predict
+whether the next card will be higher (H) or lower(L). If you guess
+correctly, anothe card will be dealt and you will guess again.
+Your score will be the number of correct predictions. Note that
+a tie counts as an incorrect guess.
+
+The current card is Four of Diamonds.
+Enter your next guess (H or L): h
+
+The next card was Seven of Spades.
+Your prediction was correct.
+Enter your next guess (H or L): l
+
+The next card was Two of Clubs.
+Your prediction was correct.
+Enter your next guess (H or L): h
+
+The next card was Ten of Clubs.
+Your prediction was correct.
+Enter your next guess (H or L): l
+
+The next card was King of Spades.
+
+Your prediction was incorrect.
+
+Game over! Your score was 3.
+
+
+
+
+This program lets you play a simple card game called High-Low.
+A card will be dealt from a deck of cards. You must predict
+whether the next card will be higher (H) or lower(L). If you guess
+correctly, anothe card will be dealt and you will guess again.
+Your score will be the number of correct predictions. Note that
+a tie counts as an incorrect guess.
+
+The current card is Four of Spades.
+Enter your next guess (H or L): l
+
+The next card was Four of Hearts.
+
+Sorry, but you lose on ties!
+
+Game over! Your score was 0.
+
+
+
+
+

@@ -1,0 +1,143 @@
+Manases Garcia
+
+Homework #8
+
+Problem#1
+
+This program finds the number of games the Spurs played between
+the input minimum and maximum entered by a user.
+The minimum and maximum can be equal.
+
+Enter a minimum score: 110
+
+Enter a maximum score: 120
+
+The Spurs scored between 110 and 120 points 23 times.
+
+
+
+This program finds the number of games the Spurs played between
+the input minimum and maximum entered by a user.
+The minimum and maximum can be equal.
+
+Enter a minimum score: 80
+
+Enter a maximum score: 150
+
+The Spurs scored between 80 and 150 points 71 times.
+
+
+
+
+This program finds the number of games the Spurs played between
+the input minimum and maximum entered by a user.
+The minimum and maximum can be equal.
+
+Enter a minimum score: 150
+
+Enter a maximum score: 80
+Your minimum cannot be greater then your maximum and your maximum
+cannot be less then your minimum.
+
+Enter a minimum score: 80
+
+Enter a maximum score: 150
+
+The Spurs scored between 80 and 150 points 71 times.
+
+Problem#2
+
+This program will prompt the user to enter a file, the program
+will read the file and print the total numbers of grades in
+the file and print the number of letter grades using the
+standard grading scale.
+
+Enter the file name: grades1.txt
+
+Total number of grades = 14
+Number of A's = 3
+Number of B's = 4
+Number of C's = 4
+Number of D's = 2
+Number of F's = 1
+
+
+
+
+This program will prompt the user to enter a file, the program
+will read the file and print the total numbers of grades in
+the file and print the number of letter grades using the
+standard grading scale.
+
+Enter the file name: grades2.txt
+
+Total number of grades = 20
+Number of A's = 5
+Number of B's = 6
+Number of C's = 2
+Number of D's = 5
+Number of F's = 2
+
+
+
+
+This program will prompt the user to enter a file, the program
+will read the file and print the total numbers of grades in
+the file and print the number of letter grades using the
+standard grading scale.
+
+Enter the file name: grades3.txt
+
+Error:Could not convert line into a float
+
+Problem#3
+
+This program displays information form the Hogwarts
+video game tournament. All players with a score of
+30000 or higher are listed below.
+
+Hermione Granger     39537
+Sirius Black         36200
+Regulas Black        35634
+Lavender Brown       35896
+Albus Dumbledore     34388
+Lee Jordan           30440
+Remus Lupin          33753
+Harry Potter         35073
+Severus Snape        31898
+Katie Bell           30214
+
+Challenge Problem#6
+
+This program will prompt the user to enter a name and then search
+the given files to find the name and rank in the files.
+
+Enter a name: Jordan
+
+Jordan was #38 for boys' name.
+Jordan was #75 for girls' name.
+
+
+
+
+This program will prompt the user to enter a name and then search
+the given files to find the name and rank in the files.
+
+Enter a name: Taylor
+
+Taylor did not appear in the list of boy's names
+Taylor was #17 for girls' name.
+
+
+
+
+This program will prompt the user to enter a name and then search
+the given files to find the name and rank in the files.
+
+Enter a name: Manases
+
+Manases did not appear in the list of boy's names
+Manases didn not appear in the list of girls' names
+
+
+
