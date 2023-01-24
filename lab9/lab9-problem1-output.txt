@@ -1,0 +1,25 @@
+Manases Garcia, Jackson Montgomery, Klyde Jones
+
+Lab#9
+
+Problem 1
+
+This program tests the fraction_to_decimal function.
+
+It actually does more testing than necessary, just because....
+
+fraction_to_decimal(3, 4) should return 0.75.
+fraction_to_decimal(3, 4) returns 0.75.
+
+fraction_to_decimal(-12.5, 4) should return -3.125.
+fraction_to_decimal(-12.5, 4) returns -3.125.
+
+fraction_to_decimal(8, -3.2) should return -2.50.
+fraction_to_decimal(8, -3.2) returns -2.50.
+
+fraction_to_decimal(2.5) should return 2.5.
+fraction_to_decimal(2.5) returns 2.5.
+
+fraction_to_decimal(5) should return 5.0.
+fraction_to_decimal(5) returns 5.0.
+

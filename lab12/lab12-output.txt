@@ -1,0 +1,38 @@
+Manases Garcia, Christian Mitchell, Bryce Chimene
+
+Lab#12
+
+Problem #1
+
+This program displays information on the TLU
+Men's Basketball Team for the 2018-19 season.
+
+TLU lost to Incarnate Word by a score of 87-90.
+TLU lost to East Texas Baptist by a score of 59-70.
+TLU lost to LeTourneau by a score of 71-87.
+TLU beat Hardin-Simmons by a score of 80-79.
+TLU lost to McMurry by a score of 63-87.
+TLU beat Concordia (Tex.) by a score of 79-56.
+TLU beat Mary Hardin-Baylor by a score of 79-77.
+TLU lost to JWU (Denver) by a score of 74-89.
+TLU lost to Colorado Col. by a score of 81-89.
+TLU beat Schreiner by a score of 79-64.
+TLU beat McMurry by a score of 68-45.
+TLU beat Hardin-Simmons by a score of 72-59.
+TLU beat Centenary (La.) by a score of 75-74.
+TLU lost to Trinity (Tex.) by a score of 69-89.
+TLU beat Schreiner by a score of 64-54.
+TLU beat Austin by a score of 76-55.
+TLU beat Southwestern (Tex.) by a score of 78-60.
+TLU beat Dallas by a score of 75-69.
+TLU beat Trinity (Tex.) by a score of 79-60.
+TLU beat JWU (Denver) by a score of 65-59.
+TLU lost to Colorado Col. by a score of 69-83.
+TLU beat Dallas by a score of 71-57.
+TLU beat Southwestern (Tex.) by a score of 73-62.
+TLU lost to Austin by a score of 83-93.
+TLU beat Centenary (La.) by a score of 81-63.
+TLU lost to Trinity (Tex.) by a score of 65-73.
+TLU beat Dallas by a score of 64-60.
+TLU beat Whitman by a score of 99-95.
+TLU lost to  by a score of 79-102.

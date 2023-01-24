@@ -1,0 +1,27 @@
+Manases, William, and Antonio
+
+lab 3 
+
+problem 3.a
+
+This program demostrates formatted output.
+
+Our names are Manases and William and Antonio.
+
+num1 = 314.00
+num2 =   0.35
+num3 =   5.76
+num4 =  18.27
+
+
+
+Problem 3.b
+
+This program demostrates formatted output.
+
+Our names are Manases and William and Antonio.
+
+num1 = 314.00
+num2 = 0.35
+num3 = 5.76
+num4 = 18.27

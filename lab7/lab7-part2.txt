@@ -1,0 +1,21 @@
+Manases Garcia
+
+Problem 2
+
+Operation to be tested      Input   Expected output
+temperature <= 0            -1      Ice
+left boundary of 
+ 0 < temperature < 100      1       Water
+right boundary of
+ 0 < temperature < 100      99      Water
+temperature >= 100          101     Steam
+
+Problem 3
+                                         Expected     Actual
+Operation to be tested      Inputs        Output      Output      ERROR?
+All sides different      a=2, b=3, c=4    Scalene     Scalene 
+Two sides the same, #1   a=2, b=2, c=3    Isosceles   Scalene
+Two sides the same, #2   a=2, b=3, c=2    Isosceles   Scalene     ERROR
+Two sides the same, #3   a=3, b=2, c=2    Isosceles   Scalene
+All sides the same       a=2, b=2, c=3    Equilateral Equilateral 
+

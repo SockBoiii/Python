@@ -1,0 +1,35 @@
+Manases Garcia, Hailey Stahl, Marcus Johnson
+
+Lab#15
+
+Problem #1
+
+Given your first and last names, this program
+will determine your corresponding username.
+
+Enter your first name: Manases
+Enter your last name: Garcia
+
+For the name Manases Garcia, the username is mgarcia.
+
+
+
+
+Given your first and last names, this program
+will determine your corresponding username.
+
+Enter your first name: Hailey
+Enter your last name: Stahl
+
+For the name Hailey  Stahl, the username is hstahl.
+
+
+
+
+Given your first and last names, this program
+will determine your corresponding username.
+
+Enter your first name: Marcus
+Enter your last name: Johnson
+
+For the name Marcus Johnson, the username is mjohnson.

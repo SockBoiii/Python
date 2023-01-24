@@ -1,0 +1,34 @@
+Manases Garcia and Klyde Jones 
+
+Lab #4
+
+Problem #2
+
+This program determines your voter eligibility.
+
+Enter you age: 17
+
+You are too young to vote.
+
+
+
+
+This program determines your voter eligibility.
+
+Enter you age: 18
+
+Are you registered to vote? (Y/N) y
+
+You can vote.
+
+
+
+This program determines your voter eligibility.
+
+Enter you age: 18
+
+Are you registered to vote? (Y/N) n
+
+You must register before you can vote.
+
+

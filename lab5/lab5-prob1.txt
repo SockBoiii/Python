@@ -1,0 +1,15 @@
+Manases Garcia, Aidyn Vargas, and Marcus
+
+Lab #5
+
+Problem #1
+
+if color_id == 'R' or color_id == 'r':
+    print('red;)
+elif color_id == 'G' or color_id == 'g':
+        print('green')
+elif color_id == 'B' or color_id == 'b':
+        print('blue')
+else:
+    print('That is an invaild color.')
+

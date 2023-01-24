@@ -1,0 +1,55 @@
+Manases Garcia, Tracy, Garza, Aidyn Vargas, William Cucinotta
+
+This program plays a dice game between two players, rolling a
+pair of dice 10 times counting score for each and reseting
+when snake eyes is rolled.
+
+Player 1 rolled 4 2. Score1 = 7
+Player 2 rolled 4 2. Score2 = 6
+Player 1 rolled 2 1. Score1 = 11
+Player 2 rolled 2 1. Score2 = 9
+Player 1 rolled 4 3. Score1 = 18
+Player 2 rolled 4 3. Score2 = 16
+Player 1 rolled 2 6. Score1 = 23
+Player 2 rolled 2 6. Score2 = 24
+Player 1 rolled 5 1. Score1 = 28
+Player 2 rolled 5 1. Score2 = 30
+Player 1 rolled 4 4. Score1 = 37
+Player 2 rolled 4 4. Score2 = 38
+Player 1 rolled 4 5. Score1 = 40
+Player 2 rolled 4 5. Score2 = 47
+Player 1 rolled 3 2. Score1 = 48
+Player 2 rolled 3 2. Score2 = 52
+Player 1 rolled 6 2. Score1 = 53
+Player 2 rolled 6 2. Score2 = 60
+Player 1 rolled 5 4. Score1 = 60
+Player 2 rolled 5 4. Score2 = 69
+
+
+
+
+This program plays a dice game between two players, rolling a
+pair of dice 10 times counting score for each and reseting
+when snake eyes is rolled.
+
+Player 1 rolled 6 2. Score1 = 11
+Player 2 rolled 6 2. Score2 = 8
+Player 1 rolled 5 4. Score1 = 14
+Player 2 rolled 5 4. Score2 = 17
+Player 1 rolled 5 3. Score1 = 17
+Player 2 rolled 5 3. Score2 = 25
+Player 1 rolled 1 1. Score1 = 23
+SNAKE EYES
+Player 2 rolled 1 1. Score2 = 0
+Player 1 rolled 2 3. Score1 = 28
+Player 2 rolled 2 3. Score2 = 5
+Player 1 rolled 3 1. Score1 = 35
+Player 2 rolled 3 1. Score2 = 9
+Player 1 rolled 6 2. Score1 = 45
+Player 2 rolled 6 2. Score2 = 17
+Player 1 rolled 5 4. Score1 = 56
+Player 2 rolled 5 4. Score2 = 26
+Player 1 rolled 6 6. Score1 = 62
+Player 2 rolled 6 6. Score2 = 38
+Player 1 rolled 6 2. Score1 = 72
+Player 2 rolled 6 2. Score2 = 46

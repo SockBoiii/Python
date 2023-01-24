@@ -1,0 +1,26 @@
+Manases Garcia, Aidyn Vargas, Antonio Flores, Ashely Martinez Rodriguez 
+
+Lab 8 
+
+Problem 2 
+
+This program demonstrates the get_input function.
+
+Enter a number in [1, 5]: 0.9
+
+This is not in the range [1, 5]
+Enter a number in [1, 5]: 1
+
+The validated input was 1.00.
+
+
+
+
+This program demonstrates the get_input function.
+
+Enter a number in [1, 5]: 5.1
+
+This is not in the range [1, 5]
+Enter a number in [1, 5]: 5
+
+The validated input was 5.00.

@@ -1,0 +1,24 @@
+Manases Garcia, William Cucinotta, Simon Carandang, Marcela Juarez
+
+Lab 24
+
+Problem #1
+
+Given a name, this program will determine if that person
+has won the Academy Award for acting.
+
+Enter the name: Denzel Washington
+
+Denzel Washington won for Actor -- Supporting Role in 1989.
+Denzel Washington won for Actor -- Leading Role in 2001.
+
+
+
+Given a name, this program will determine if that person
+has won the Academy Award for acting.
+
+Enter the name: Mila Kunis
+
+Mila Kunis has never won the academy award for acting.
+
+

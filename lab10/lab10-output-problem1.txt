@@ -1,0 +1,12 @@
+Manases Garcia, William Cucinotta, Antonio Flores, Ashley Martinez 
+
+Lab 10
+
+Problem 1
+
+This program computes the volume of a cone.
+
+Enter the radius: 1.5
+Enter the height: 3
+
+For a radius of 1.50 and height of 3.00, the cone has a volume of 7.07.

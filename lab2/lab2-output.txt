@@ -1,0 +1,24 @@
+Manases Garcia 
+
+Problem 2
+
+inches_to_meters.py
+
+Given a value in inches, this program will compute the
+corresponding value in meters.
+
+Enter the value in inches: 42.6
+
+42.60 inches = 1.08 meters
+
+Problem 3
+
+ticket_cost.py
+
+Given the number of child and adult tickets desired,
+this program will compute the total cost of the tickets.
+
+Enter the number of children: 4
+Enter the number of adults: 2
+
+For 4 children and 2 adults, the cost is $22.00
